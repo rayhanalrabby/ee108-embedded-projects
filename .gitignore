@@ -1,0 +1,24 @@
+# Arduino build output
+build/
+*.hex
+*.elf
+*.o
+*.d
+.build/
+
+# Arduino IDE / PlatformIO
+.vscode/
+.pio/
+*.pio-env
+
+# Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# OS cruft
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
